@@ -108,9 +108,9 @@ analytics:
 author:
   name             : "PeachJelly"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
-  email            : 
+  # bio              : ""
+  # location         : ""
+  # email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
