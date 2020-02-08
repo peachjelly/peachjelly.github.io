@@ -41,7 +41,7 @@ categories: c_programming
   목적 파일을 실행 파일로 변환하는 과정으로 컴파일된 목적 파일들을 라이브러리 파일과 연결하여 실행 파일을 만들어 냄
   
 ## C 프로그램의 구성
-```
+```c
 // 도입부: 프로그램 전체에 적용되는 사항을 기술
 # include <stdio.h>
 int add(int x, int y);
@@ -72,7 +72,7 @@ int add(int x, int y) {
   * 기억 관련 예약어<br>
     auto, static, extern, register
   * 제어 관련 예약어<br>
-    if~else, for, while, do~while, switch~case, break, continue, return
+    if&#126;else, for, while, do&#126;while, switch&#126;case, break, continue, return
   * 기타 예약어<br>
     main, sizeof, include, ...
 * 명칭(identifier)<br>
