@@ -15,7 +15,8 @@ categories: c_programming
   0, 1로 구성된 컴퓨터가 사용하는 언어
 * 컴파일러<br>
   프로그래밍 언어로 작성된 프로그램을 컴퓨터가 이해할 수 있도록 기계어로 번역해주는 번역기<br>
-  소스 프로그램을 한번에 기계어로 변환시킴
+  소스 프로그램을 한번에 기계어로 변환시킴<br>
+  프로그램을 구성하는 문자들을 기본 처리 단위인 토큰으로 분리하고 그것이 올바른 규칙을 따르는지 검사하여 실행코드를 생성
   * 어셈블러(assembler)<br>
     기호로 표현된 어셈블리 코드를 기계어로 번역하는 번역기
   * 인터프리터(interpreter)<br>
@@ -65,6 +66,14 @@ int add(int x, int y) {
 #### C 프로그램의 구성 요소
 * 예약어(reserved word)<br>
   미리 정의되어 있는 의미 있는 단어
+  * 자료형 관련 예약어<br>
+    char, int, float, short, long, double, unsigned, union, enum, void
+  * 기억 관련 예약어<br>
+    auto, static, extern, register
+  * 제어 관련 예약어<br>
+    if~else, for, while, do~while, switch~case, break, continue, return
+  * 기타 예약어<br>
+    main, sizeof, include, ...
 * 명칭<br>
   변수, 배열, 함수 등의 이름
 * 상수<br>   
@@ -72,4 +81,6 @@ int add(int x, int y) {
 * 연산자<br>
   =, -, *, /, ++ ...
 * 주석
+  * 여러 줄에 걸친 주석은 /* 와 */ 사용
+  * 한 줄짜리 주석은 // 사용
   
