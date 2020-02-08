@@ -51,7 +51,8 @@ void main() {
   // ...
 }
 
-// 호출된 함수: main() 함수에서 호출된 함수를 정의하는 부분 (도입부와 main() 함수 사이에 있어도 상관 없음)
+/* 호출된 함수: main() 함수에서 호출된 함수를 정의하는 부분 
+              (도입부와 main() 함수 사이에 있어도 상관 없음) */
 int add(int x, int y) {
   return x + y;
 }
@@ -74,8 +75,15 @@ int add(int x, int y) {
     if~else, for, while, do~while, switch~case, break, continue, return
   * 기타 예약어<br>
     main, sizeof, include, ...
-* 명칭<br>
+* 명칭(identifier)<br>
   변수, 배열, 함수 등의 이름
+  * 명칭을 만들때의 규칙
+    * 예약어 사용 불가
+    * 영문자 대문사와 소문자는 서로 구별하여 사용
+    * 특수문자 사용 불가, 밑줄(_)은 사용 가능
+    * 문자 사이에 공백 사용 불가
+    * 영문자와 숫자의 조합
+    * 명칭의 길이는 컴파일러에 따라 차이가 있음 (일반적으로 32자까지 인식 가능)
 * 상수<br>   
   값이 불변인 자료
 * 연산자<br>
