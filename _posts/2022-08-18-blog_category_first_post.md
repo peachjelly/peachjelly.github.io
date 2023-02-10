@@ -24,10 +24,10 @@ last_modified_at: 2022-08-18
 
 # 막혔던 부분
 ## jekyll 서버 기동 시 에러 - cannot load such file -- webrick
-- https://velog.io/@minji-o-j/jekyll-오류-해결 링크 참고하여 해결
+- <https://velog.io/@minji-o-j/jekyll-오류-해결> 링크 참고하여 해결
     - webbrick install
 
 ## Github Pages 404 error
-- https://reload1bronze.tistory.com/52 링크 참고하여 해결
+- <https://reload1bronze.tistory.com/52> 링크 참고하여 해결
     - 공개범위를 private이 아닌 public으로 해야함
-    https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility
+    <https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility>
