@@ -28,5 +28,5 @@ last_modified_at: 2023-02-10
 
 
 # 참고
-https://www.wisewiredbooks.com/term-dict/common/boilerplate.html#:~:text=%EC%BB%B4%ED%93%A8%ED%84%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%9D%BC%EB%9F%AC%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8,%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC%20%ED%95%9C%EB%8B%A4.
-https://en.wikipedia.org/wiki/Boilerplate_code
+<https://www.wisewiredbooks.com/term-dict/common/boilerplate.html#:~:text=%EC%BB%B4%ED%93%A8%ED%84%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%9D%BC%EB%9F%AC%ED%94%8C%EB%A0%88%EC%9D%B4%ED%8A%B8,%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%95%B4%EC%95%BC%20%ED%95%9C%EB%8B%A4>
+<https://en.wikipedia.org/wiki/Boilerplate_code>
