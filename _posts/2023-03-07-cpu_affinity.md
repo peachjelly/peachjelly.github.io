@@ -17,8 +17,8 @@ last_modified_at: 2023-03-07
 
 # gather infomation
 - <https://selfish-developer.com/entry/CPU-pinning%EA%B3%BC-taskset>
--- Cpu pinning 이라고도 하는건가?
--- Big core? Little core? 속도에 따른 분류인지?
+  - Cpu pinning 이라고도 하는건가?
+  - Big core? Little core? 속도에 따른 분류인지?
 - <https://jeep-shoes.tistory.com/64>
   - 예제 코드, 나중에 실습할 때 참고해보기
 - <https://log.hanjava.net/post/2430955859/cpu-affinity>
