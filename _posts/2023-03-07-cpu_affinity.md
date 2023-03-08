@@ -22,6 +22,6 @@ last_modified_at: 2023-03-07
 - <https://jeep-shoes.tistory.com/64>
   - 예제 코드, 나중에 실습할 때 참고해보기
 - <https://log.hanjava.net/post/2430955859/cpu-affinity>
--- cpu cache가 뭔지 알아야 될 것처럼 보임, cpu 내의 캐시를 말하는건가?
--- <https://parksb.github.io/article/29.html>
+  - cpu cache가 뭔지 알아야 될 것처럼 보임, cpu 내의 캐시를 말하는건가?
+  - <https://parksb.github.io/article/29.html>
 
